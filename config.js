@@ -3,32 +3,32 @@
 
 const userData = {
     // === DANE OSOBOWE ===
-    name: "djklsajdjaksdjasdhaskj",
-    surname: "KOWALSKI",
-    familyName: "KOWALSKI",
+    name: "Filip",
+    surname: "Lyczywek",
+    familyName: "Lyczywek",
     sex: "MĘŻCZYZNA",
     
     // === DANE URODZENIA ===
-    birthday: "1990-03-15",
+    birthday: "1999-03-15",
     pesel: "90031502957",
-    birthPlace: "WARSZAWA",
+    birthPlace: "ELBLĄG",
     countryOfBirth: "POLSKA",
     
     // === DANE DOKUMENTU ===
-    seriesAndNumber: "ABC 123456",
+    seriesAndNumber: "GHB 749563",
     givenDate: "2022-09-11",
     expiryDate: "2032-09-11",
     nationality: "POLSKIE",
     
     // === DANE RODZICÓW ===
     fathersName: "ANDRZEJ",
-    fathersFamilyName: "KOWALSKI",
-    mothersName: "MARIA",
-    mothersFamilyName: "NOWAK",
+    fathersFamilyName: "Łyczywek",
+    mothersName: "Asia",
+    mothersFamilyName: "Łyczywek",
     
     // === DANE ADRESOWE ===
-    adress: "UL. PRZYKŁADOWA 123, 00-001 WARSZAWA",
-    homeDate: "2015-01-10",
+    adress: "UL. Fromborska 17 82-300 elbląg",
+    homeDate: "2020-01-10",
     
     // === ZDJĘCIE ===
     // Możesz wstawić tutaj URL do zdjęcia lub base64
