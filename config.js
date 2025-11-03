@@ -3,15 +3,15 @@
 
 const userData = {
     // === DANE OSOBOWE ===
-    name: "Filip",
-    surname: "Lyczywek",
-    familyName: "Lyczywek",
+    name: "123",
+    surname: "123",
+    familyName: "123",
     sex: "MĘŻCZYZNA",
     
     // === DANE URODZENIA ===
     birthday: "1999-03-15",
     pesel: "90031502957",
-    birthPlace: "ELBLĄG",
+    birthPlace: "XD",
     countryOfBirth: "POLSKA",
     
     // === DANE DOKUMENTU ===
@@ -21,13 +21,13 @@ const userData = {
     nationality: "POLSKIE",
     
     // === DANE RODZICÓW ===
-    fathersName: "ANDRZEJ",
-    fathersFamilyName: "Łyczywek",
-    mothersName: "Asia",
-    mothersFamilyName: "Łyczywek",
+    fathersName: "111",
+    fathersFamilyName: "1232",
+    mothersName: "3423342",
+    mothersFamilyName: "23232",
     
     // === DANE ADRESOWE ===
-    adress: "UL. Fromborska 17 82-300 elbląg",
+    adress: "UL. Obywatelowa 15",
     homeDate: "2020-01-10",
     
     // === ZDJĘCIE ===
