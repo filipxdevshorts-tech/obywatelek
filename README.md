@@ -1,1 +1,9 @@
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://www.star-history.com/embed?secret=#filipxdevshorts-tech/obywatelek&type=date&legend=top-left" frameBorder="0"></iframe>
+# HISTORIA GWIAZDEK
+
+<a href="https://www.star-history.com/#filipxdevshorts-tech/obywatelek&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=filipxdevshorts-tech/obywatelek&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=filipxdevshorts-tech/obywatelek&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=filipxdevshorts-tech/obywatelek&type=date&legend=top-left" />
+ </picture>
+</a>
